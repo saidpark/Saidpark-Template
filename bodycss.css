@@ -1,0 +1,97 @@
+/* CSS Document */
+
+BODY {
+	scrollbar-track-color : #FFFFFF;
+	scrollbar-shadow-color : #FFFFFF;
+	scrollbar-highlight-color : #426B94;
+	scrollbar-face-color : #666666;
+	scrollbar-darkshadow-color : #426B94;
+	scrollbar-3dlight-color : #FFFFFF;
+	scrollbar-arrow-color : #FFFFFF;
+	background-image: url(images/Background_Gothic_Web.jpg);
+	background-attachment: fixed;
+	  }
+input { font-size: 13px; font-family: Verdana; color: #000000; font-style: italic; font-weight: bold; border: 1px solid #10315A; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1;  }
+.clearfix { font-size: 13px; font-family: Verdana; color: #FFFFFF; font-style: italic; border-width: 0; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1; background-color:#000000}
+
+A:link {FONT-SIZE: 13px; COLOR: #0033CC;  FONT-FAMILY:  arial, helvetica, verdana, sans-serif; TEXT-DECORATION: underline}
+A:visited {
+	FONT-SIZE: 95%;
+	COLOR: #0099CC;
+	FONT-FAMILY:  Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: underline;
+}
+#pub {
+position:absolute; 
+top:220px; 
+right:167px;
+}
+
+#fb {
+margin-top:-490px;
+}
+
+#Layer1 {
+	position:absolute;
+	left:168px;
+	top:254px;
+	width:674px;
+	height:394px;
+	z-index:1;
+}
+.Style5 {
+	font-size: 15px;
+	font-weight: bold;
+	color: #0066FF;
+}
+.Style6 {font-size: 12px}
+.Style17 {font-size: 18}
+.Style18 {
+	font-size: 16px;
+	color: #333333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+.Style19 {
+	color: #e70033;
+	font-weight: bold;
+}
+.Style21 {
+	color: #006699;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.savestatus{ /* Style for the "Saving Form Contents" DIV that is shown at the top of the form */
+	width:160px;
+	;
+	border:1px solid gray;
+	background:#ffffff;
+
+
+
+-webkit-box-shadow: 0 0 8px #818181;
+	box-shadow: 0 0 8px #818181;
+
+
+
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+	border-radius:5px;
+	color:#006699;
+	padding-top:inherit;
+
+}
+.Style22 {font-style: italic}
+.Style25 {
+	color: #333333;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Style26 {
+	color: #333333;
+	font-size: 14px;
+}
+.Style27 {font-family: Arial, Helvetica, sans-serif}
+.Style31 {font-size: 15px; color: #006699;}

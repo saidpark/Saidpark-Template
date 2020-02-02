@@ -1,0 +1,70 @@
+/* CSS Document */
+
+h1 {
+	font-size: 18px;
+	color: #000000;
+	font-weight: normal;
+}
+
+p {
+	font-size:14px;
+	color:#000000;
+	font-weight:normal;
+	text-decoration: none;
+  }
+body {
+	background-color: #333333;
+}
+body,td,th {
+}
+.link, .link a:link, .link a:visited, .link a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 5px;
+}
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.link a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FF9900;
+	text-decoration: none;
+}
+#price {
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 10px;
+	padding-left: 15px;
+}
+#shopping {
+	padding-left: 10px;
+	padding-top: 5px;
+}
+resize {
+	padding-top: 5px;
+	padding-left: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.gallery {
+	border: 3px solid #5AC3E0;
+}
+.contacttext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #000000;
+}

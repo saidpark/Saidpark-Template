@@ -1,0 +1,47 @@
+.arrowlistmenu{
+width: 160px; /*width of menu*/
+}
+
+.arrowlistmenu .headerbar{
+font: bold 14px;
+color: white;
+background: black url(images/titlebar.bmp) repeat-x center left;
+margin-bottom: 4px; /*bottom spacing between header and rest of content*/
+text-transform: uppercase;
+padding: 3px 0 3px 10px; /*header text is indented 10px*/
+}
+
+.arrowlistmenu ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+margin-bottom: 8px; /*bottom spacing between each UL and rest of content*/
+}
+
+.arrowlistmenu ul li{
+padding-bottom: 2px; /*bottom spacing between menu items*/
+}
+
+.arrowlistmenu ul li a{
+color: #A70303;
+background: url(images/arrowbullet.bmp) no-repeat center left; /*custom bullet list image*/
+display: block;
+padding: 2px 0;
+padding-left: 19px; /*link text is indented 19px*/
+text-decoration: none;
+font-weight: normal;
+border-bottom: 1px solid #dadada;
+font-size: 90%;
+}
+
+.arrowlistmenu ul li a:visited{
+	color: #A70303;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.arrowlistmenu ul li a:hover{ /*hover state CSS*/
+	color: #A70303;
+	background-color: #F3F3F3;
+	text-decoration: none;
+}
